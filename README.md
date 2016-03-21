@@ -1,12 +1,16 @@
 # marketplace
 Magento Multivendor Product Relation and Vendor Listing
 
-Only for Magento'ers
-Vendor Relation with Products
-Vendor Listing
-Vendor Attributes EAV Model
-Admin can manage Vendor attributes
+Only for Magento'ers 
+Vendor Relation with Products <br/>
+Vendor Listing <br/>
+Vendor Attributes EAV Model <br/> 
+Admin can manage Vendor attributes <br/>
 
-Happy coding
-Fork it if you like it.
-Suggestions are welcome
+Happy coding <br/>
+Fork it if you like it. <br/>
+Suggestions are welcome <br/>
+
+Kind Regards
+Sandy
+
